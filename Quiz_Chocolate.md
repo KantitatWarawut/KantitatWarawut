@@ -15,7 +15,7 @@ public class MyClass {
             cnt++;
             j++;
             if(cnt == frd){
-                val++;
+                num++;
                 cnt = 0;
             }
             if(j == col){
