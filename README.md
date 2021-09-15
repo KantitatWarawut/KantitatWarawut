@@ -1,3 +1,2 @@
 # ABOUT
-Config files for my GitHub profile.
-This is a test
+Space to dump all my code that I write
