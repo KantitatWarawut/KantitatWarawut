@@ -1,0 +1,4 @@
+## WeaponFactory
+**Java:**
+```java
+```
