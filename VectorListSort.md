@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Q1{
+public class VectorListSort{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         Vector<Integer> nums = new Vector<Integer>();
