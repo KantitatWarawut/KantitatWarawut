@@ -1,3 +1,6 @@
+##toBinary
+**Java:**
+```java
 import java.util.Scanner;
 
 public class Q2{
@@ -13,3 +16,4 @@ public class Q2{
         }
     }
 }
+```
