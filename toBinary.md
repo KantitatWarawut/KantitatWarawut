@@ -1,4 +1,4 @@
-##toBinary
+## toBinary
 **Java:**
 ```java
 import java.util.Scanner;
