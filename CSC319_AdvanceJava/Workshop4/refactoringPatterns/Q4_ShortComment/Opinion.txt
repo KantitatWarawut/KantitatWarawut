@@ -1,0 +1,5 @@
+Kantitat Warawut 64130500206
+
+// My Opinion
+Lambdas are great to use! Although, I find it hard to use it at first.
+And it's also a great way to format code to see how it function.
